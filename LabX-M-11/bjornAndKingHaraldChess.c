@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 int main(){
-
+//input from user
 int totalGame,bjorn=0,king=0;
 scanf("%d",&totalGame);
 
